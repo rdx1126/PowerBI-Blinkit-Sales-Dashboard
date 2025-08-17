@@ -31,6 +31,6 @@ The dashboard includes a variety of charts and visuals:
   - Potential focus areas for **health-conscious product marketing**  
 
 ## 📂 Files in Repository
-- `Blinkit_Sales.pbix` → Power BI dashboard file  
-- `Blinkit_Sales_Data.csv` → Sample dataset (for demonstration)  
-- `/images` → Dashboard screenshots  
+- `Blinkit Sales Insights.pbix` → Power BI dashboard file  
+- `Blinkit_Sales_Data.xls` → Sample dataset (for demonstration)  
+-  Dashboard screenshots  
